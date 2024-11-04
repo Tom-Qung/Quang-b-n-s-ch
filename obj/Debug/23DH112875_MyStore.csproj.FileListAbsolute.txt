@@ -1,0 +1,2 @@
+D:\Tran nguyen Quang-----------------------\Lập trình web TH\BE\23DH112875_MyStore\23DH112875_MyStore\obj\Debug\23DH112875_MyStore.csproj.AssemblyReference.cache
+D:\Tran nguyen Quang-----------------------\Lập trình web TH\BE\23DH112875_MyStore\23DH112875_MyStore\obj\Debug\23DH112875_MyStore.csproj.CoreCompileInputs.cache
